@@ -32,6 +32,7 @@ config_files=(tmux.conf
   tmux.conf.local
   p10k.zsh
   zshrc
+  zshrc.local
   zprofile
   profile
 )
